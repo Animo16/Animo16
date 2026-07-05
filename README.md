@@ -76,8 +76,6 @@ const Animo16 = {
 
 </div>
 
-> ⚠️ **Setup needed:** this animation renders itself via a GitHub Action. Create a repo named exactly **`Animo16`** (your profile repo), drop [`snake.yml`](.github/workflows/snake.yml) from this project into `.github/workflows/` there, push once, then let the Action run.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00FFF9&height=3&section=header" width="100%"/>
 
 ## 📡 Connect
